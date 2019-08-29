@@ -1,0 +1,8 @@
+# Default ignored files
+.idea
+BlueJ-source-315-duke/
+#duke-src/
+java_sdk_source/
+#org-src/
+#quiz2/
+*/target/
