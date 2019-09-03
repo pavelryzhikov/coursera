@@ -1,0 +1,35 @@
+Class documentation
+<---- javadoc command: ---->
+/private/var/folders/lq/nthwc_ss53db6ddwr7smb19h0000gn/T/AppTranslocation/FFA14679-B6A8-46FA-84E0-D29612A94B5C/d/BlueJ.app/Contents/JDK/Home/bin/javadoc
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+/private/var/folders/lq/nthwc_ss53db6ddwr7smb19h0000gn/T/AppTranslocation/FFA14679-B6A8-46FA-84E0-D29612A94B5C/d/BlueJ.app/Contents/Resources/Java/bluejcore.jar:/private/var/folders/lq/nthwc_ss53db6ddwr7smb19h0000gn/T/AppTranslocation/FFA14679-B6A8-46FA-84E0-D29612A94B5C/d/BlueJ.app/Contents/Resources/Java/junit-4.11.jar:/private/var/folders/lq/nthwc_ss53db6ddwr7smb19h0000gn/T/AppTranslocation/FFA14679-B6A8-46FA-84E0-D29612A94B5C/d/BlueJ.app/Contents/Resources/Java/hamcrest-core-1.3.jar:/private/var/folders/lq/nthwc_ss53db6ddwr7smb19h0000gn/T/AppTranslocation/FFA14679-B6A8-46FA-84E0-D29612A94B5C/d/BlueJ.app/Contents/Resources/Java/lang-stride.jar:/private/var/folders/lq/nthwc_ss53db6ddwr7smb19h0000gn/T/AppTranslocation/FFA14679-B6A8-46FA-84E0-D29612A94B5C/d/BlueJ.app/Contents/Resources/Java/userlib/apache-csv.jar:/private/var/folders/lq/nthwc_ss53db6ddwr7smb19h0000gn/T/AppTranslocation/FFA14679-B6A8-46FA-84E0-D29612A94B5C/d/BlueJ.app/Contents/Resources/Java/userlib/courserajava.jar:/private/var/folders/lq/nthwc_ss53db6ddwr7smb19h0000gn/T/AppTranslocation/FFA14679-B6A8-46FA-84E0-D29612A94B5C/d/BlueJ.app/Contents/Resources/Java/userlib/pi4j-core.jar:/private/var/folders/lq/nthwc_ss53db6ddwr7smb19h0000gn/T/AppTranslocation/FFA14679-B6A8-46FA-84E0-D29612A94B5C/d/BlueJ.app/Contents/Resources/Java/userlib/pi4j-device.jar:/private/var/folders/lq/nthwc_ss53db6ddwr7smb19h0000gn/T/AppTranslocation/FFA14679-B6A8-46FA-84E0-D29612A94B5C/d/BlueJ.app/Contents/Resources/Java/userlib/pi4j-gpio-extension.jar:/private/var/folders/lq/nthwc_ss53db6ddwr7smb19h0000gn/T/AppTranslocation/FFA14679-B6A8-46FA-84E0-D29612A94B5C/d/BlueJ.app/Contents/Resources/Java/userlib/pi4j-service.jar:/Users/pavelryzhikov/Downloads/perimeter_quiz
+-d
+/Users/pavelryzhikov/Downloads/perimeter_quiz/doc
+-encoding
+UTF-8
+-charset
+UTF-8
+/Users/pavelryzhikov/Downloads/perimeter_quiz/PerimeterAssignmentRunner.java
+<---- end of javadoc command ---->
+Loading source file /Users/pavelryzhikov/Downloads/perimeter_quiz/PerimeterAssignmentRunner.java...
+/Users/pavelryzhikov/Downloads/perimeter_quiz/PerimeterAssignmentRunner.java:25: error: <identifier> expected
+        s.
+          ^
+/Users/pavelryzhikov/Downloads/perimeter_quiz/PerimeterAssignmentRunner.java:25: error: not a statement
+        s.
+         ^
+/Users/pavelryzhikov/Downloads/perimeter_quiz/PerimeterAssignmentRunner.java:26: error: not a statement
+        return 0;
+               ^
+3 errors

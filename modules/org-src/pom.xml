@@ -9,18 +9,12 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>duke-src</artifactId>
-    <groupId>edu.duke</groupId>
+    <groupId>coursera</groupId>
+    <artifactId>org-src</artifactId>
     <version>1.0</version>
 
     <packaging>jar</packaging>
 
-    <dependencies>
-        <dependency>
-            <groupId>org-src</groupId>
-            <artifactId>org-src</artifactId>
-            <version>1.0</version>
-        </dependency>
-    </dependencies>
+
 
 </project>

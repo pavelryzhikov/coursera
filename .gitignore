@@ -5,4 +5,7 @@ BlueJ-source-315-duke/
 java_sdk_source/
 #org-src/
 #quiz2/
-*/target/
+**/target/
+dependency-jars/*
+temp/
+**.class
